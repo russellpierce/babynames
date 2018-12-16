@@ -16,5 +16,6 @@ LazyData: true
 URL: http://github.com/hadley/babynames
 BugReports: https://github.com/hadley/babynames/issues
 RoxygenNote: 6.1.1
+Encoding: UTF-8
 Suggests: 
     testthat (>= 2.0.0)
